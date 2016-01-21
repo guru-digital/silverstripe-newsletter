@@ -20,8 +20,5 @@
 		"silverstripe/gridfieldajaxrefresh": "*",
 		"silverstripe/cms": "~3.1"
 	},
-	"autoload": {
-		"classmap": ["tests/behat/"]
-	},
 	"minimum-stability": "dev"
 }
